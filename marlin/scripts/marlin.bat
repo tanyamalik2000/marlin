@@ -26,7 +26,7 @@ marlin_help
 exit /b 0
 
 :CD
-cd %bname%
+cd /d %bname%
 exit /b 0
 
 :END
